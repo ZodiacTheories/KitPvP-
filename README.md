@@ -1,1 +1,1 @@
-A plugin made for a user on the Bukkit Forums
+A plugin request
